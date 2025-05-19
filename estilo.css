@@ -1,0 +1,41 @@
+table tr td{
+	border: 1px solid black; /*borda da tabela*/
+}
+table{
+	width: 80%; /*largura da tabela*/
+	margin: auto; /*alinhamento centralizado da tabela*/
+}
+button{
+	color: #34e8eb;/*cor da fonte*/
+	background-color:#33166b ;/*cor de fundo do botão*/
+	font-size: 35px;/*tamanho da fonte*/
+	border-radius: 25px;/*arredonda os cantos*/
+	margin-top: 2spx;/*margem do topo*/
+	margin-bottom: 2px;/*margem inferior*/
+	margin-left:30px;/*borda a esquerda*/
+	margin-right:30px;/*margem a direita*/
+	margin: 2px 2px 30px 30px;/*resume os últimos 4 códigos*/
+	padding-top: 40px;/*margem interna topo*/
+	padding-bottom: 40px;/*margem interna inferior*/
+	padding-left: 20px;/*margem interna esquerda*/
+	padding-right: 20px;/*margem interna direita*/
+}
+h1{
+	color: #DC143C;
+	font-size: 50px;
+	font-family: 'Wavefont';
+}
+h2{
+	color: #FF8C00;
+	font-size: 28px;
+	font-family: 'Rubik Broken Fax';
+	text-align: justify;
+}
+span{
+	color: #DC143C;
+	font-size: 30px;
+	font-family: 'Rubik Broken Fax';
+	text-align: justify;
+	padding-left: 15px;
+	padding-right: 15px;
+}
